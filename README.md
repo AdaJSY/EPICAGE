@@ -1,5 +1,8 @@
 # EPICAGE
 
+EPICAGE implements the core model from our paper [Integrating Epigenetic and Phenotypic Features for Biological Age
+Estimation in Cancer Patients via Multimodal Learning].
+
 ## Prerequisites
 
 This project is designed to run on **Google Colab** with a **T4 GPU**.  
