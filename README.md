@@ -17,3 +17,5 @@ The framework adopts a modular architecture, allowing flexible model choices.
 We implement two variants: one using the lightweight ElasticNet and the other leveraging the large-scale foundation model TabPFN.
 
 Example scripts for running **EPICAGE-TabPFN** are provided in `EPICAGE. ipynb`, and scripts for **EPICAGE-ElasticNet** are provided in `EPICAGE-ElasticNet.ipynb`.
+
+Additional details are provided in the Appendix.
