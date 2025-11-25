@@ -1,7 +1,12 @@
 # EPICAGE
 
-EPICAGE implements the core model from our paper [Integrating Epigenetic and Phenotypic Features for Biological Age
-Estimation in Cancer Patients via Multimodal Learning].
+Official implementation of the paper:  
+**[Integrating Epigenetic and Phenotypic Features for Biological Age Estimation in Cancer Patients via Multimodal Learning](https://arxiv.org/abs/2511.07219)**  
+Shuyue Jiang, Wenjing Ma, Shaojun Yu, Chang Su, Runze Yan, Jiaying Lu  
+arXiv preprint, 2025
+
+---
+
 
 ## Prerequisites
 
